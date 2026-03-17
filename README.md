@@ -362,7 +362,7 @@ Contributions are welcome! Please follow these steps:
 - Use meaningful variable and function names
 - Comment complex logic
 - Maintain consistent formatting (use `flutter format`)
-
+       
 ---
 
 <div align="center">
